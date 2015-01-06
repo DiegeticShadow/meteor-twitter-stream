@@ -1,5 +1,6 @@
 Handlebars.registerHelper "moments", (date) ->
-  moment(date).format "HH:mm:ss"
+  # moment(date).format "HH:mm:ss"
+  moment(date).fromNow()
 
 Handlebars.registerHelper "linkify", (tweet) ->
   out = tweet.text

@@ -1,11 +1,11 @@
 {
 	"consumer": {
-		"key": "xxxxxxxxxxxxxxxxxxx",
-		"secret": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+		"key": "qeOszaU5uls0Re8MDUf9euVAr",
+		"secret": "c9d0ABkQjzBoeL0aeASNhwMTQnRBqKBNDj0MLMdwvQjS6GwahX"
 	},
 	"access_token": {
-		"key": "00000000-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
-		"secret": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+		"key": "89740114-MLwr2qn1bsK3E7I2dQtYJoHiscPV1wL51fgamSSxX",
+		"secret": "cJN2NXnRPxx2xiVmOG101LKDEY0yrlL46h2RJgugDlY3K"
 	},
-	"hashtag": "#javascript"
+	"hashtag": "#losangeles"
 }
